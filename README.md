@@ -43,7 +43,12 @@ python -m venv <nombre_env>
 <nombre_env>\Scripts\activate
 ```
 
-3. Abrir Jupyter notebook e ingresar a la ubicación del archivo para correrlo.
+4. Instalar los requerimientos:
+```
+pip install -r requirements.txt
+```
+
+5. Abrir Jupyter notebook e ingresar a la ubicación del archivo para correrlo.
 
 [Guia para instalar Jupyter](https://medium.com/saturdays-ai/empezando-a-usar-jupyter-notebook-para-python-parte-1-instalación-94e97b4c5f37)
 
